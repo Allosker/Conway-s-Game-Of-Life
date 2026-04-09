@@ -7,6 +7,7 @@ I will provide the .exe file, the controls for now are:
 
 
 **Keyboard Keys  :**
+
 --> *Arrows*
 
 - Arrow Up     -> Go Up
