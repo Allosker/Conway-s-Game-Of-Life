@@ -21,7 +21,7 @@ I will provide the .exe file, the controls for now are:
 - Right Click  -> The selected Cell gets unalived
 
 
-[demoGif](!https://github.com/Allosker/Conway-s-Game-Of-Life/blob/main/ScreencastFrom2026-04-0917-48-54-ezgif.com-video-to-gif-converter.gif)
+![demoGif](https://github.com/Allosker/Conway-s-Game-Of-Life/blob/main/ScreencastFrom2026-04-0917-48-54-ezgif.com-video-to-gif-converter.gif)
 
 Have fun :)
 
