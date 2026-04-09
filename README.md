@@ -7,12 +7,14 @@ I will provide the .exe file, the controls for now are:
 
 
 **Keyboard Keys  :**
--- *Arrows*
+--> *Arrows*
+
 - Arrow Up     -> Go Up
 - Arrow Down   -> Go Down
 - Arrow Left   -> Go Left
 - Arrow Right  -> Go Right
--- *F keys*
+
+--> *F keys*
 - F1           -> Next Gen
 - F2           -> Clear Grid
   
